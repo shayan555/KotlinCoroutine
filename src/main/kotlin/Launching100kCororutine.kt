@@ -12,6 +12,5 @@ fun main() = runBlocking {
             print(".")
         }
     }
-
 }
 
